@@ -1,0 +1,12 @@
+{
+  "homepage": "https://github.com/Poseidonis",
+  "1.10": {
+    "0.1.1": "* Initialization", 
+
+  },
+  ...
+  "promos": {
+    "1.10-latest": "0.1.1",
+    "1.10-recommended": "0.1.1",
+  }
+}
